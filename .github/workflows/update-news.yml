@@ -5,6 +5,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update-news:
@@ -29,12 +31,23 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      
+
           git add minecraft_news.json
-      
+
           if git diff --cached --quiet; then
             echo "No changes."
           else
             git commit -m "update(news): Minecraft news at $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
