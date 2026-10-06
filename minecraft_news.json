@@ -5,7 +5,7 @@
     "date": "2026-09-28",
     "tag": "News",
     "url": "https://www.minecraft.net/article/new-on-java-realms--grinding-and-galaxy?OCID=Launcher",
-    "image": "/v2/images/jrsep772x350.jpg"
+    "image": "https://launchercontent.mojang.com/v2/images/jrsep772x350.jpg"
   },
   {
     "title": "New on Java Realms: Mischiefs & Secrets",
@@ -13,7 +13,7 @@
     "date": "2026-08-28",
     "tag": "Minecraft: Java Edition",
     "url": "https://www.minecraft.net/article/new-on-java-realms--mischiefs---secrets?OCID=Launcher",
-    "image": "/v2/images/jr0828772x350.jpg"
+    "image": "https://launchercontent.mojang.com/v2/images/jr0828772x350.jpg"
   },
   {
     "title": "Are you ready for 9 new fun maps on Realms?!",
@@ -21,7 +21,7 @@
     "date": "2026-07-29",
     "tag": "news",
     "url": "https://www.minecraft.net/article/new-on-java-realms-monstrous-summer?OCID=Launcher",
-    "image": "/v2/images/LAUNCHERjavarealmslauncherJul26772x350.jpg"
+    "image": "https://launchercontent.mojang.com/v2/images/LAUNCHERjavarealmslauncherJul26772x350.jpg"
   },
   {
     "title": "New on Java Realms: DASH AND UNWIND",
@@ -29,7 +29,7 @@
     "date": "2026-06-26",
     "tag": "news",
     "url": "https://www.minecraft.net/article/new-on-java-realms-dash-and-unwind?OCID=Launcher",
-    "image": "/v2/images/JavaRealmsJune26772x350.jpg"
+    "image": "https://launchercontent.mojang.com/v2/images/JavaRealmsJune26772x350.jpg"
   },
   {
     "title": "New on Java Realms: Sabine's takeover",
@@ -37,7 +37,7 @@
     "date": "2026-05-29",
     "tag": "News",
     "url": "https://www.minecraft.net/article/new-on-java-realms--sabines-takeover?OCID=Launcher",
-    "image": "/v2/images/sabinestakeover772x350.jpg"
+    "image": "https://launchercontent.mojang.com/v2/images/sabinestakeover772x350.jpg"
   },
   {
     "title": "New on Java Realms: Catch Me Outside",
@@ -45,6 +45,6 @@
     "date": "2026-04-24",
     "tag": "News",
     "url": "https://www.minecraft.net/article/new-on-java-realms--catch-me-outside?OCID=Launcher",
-    "image": "/v2/images/touchgrass772x350.jpg"
+    "image": "https://launchercontent.mojang.com/v2/images/touchgrass772x350.jpg"
   }
 ]
