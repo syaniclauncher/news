@@ -1,5 +1,13 @@
 [
   {
+    "title": "Halloween on Realms",
+    "text": "12 new maps to send a shiver down your spine!",
+    "date": "2026-10-30",
+    "tag": "News",
+    "url": "https://www.minecraft.net/article/halloween-on-realms?OCID=Launcher",
+    "image": "https://launchercontent.mojang.com/v2/images/halloweenrealms772x350.jpg"
+  },
+  {
     "title": "New on Java Realms: Grinding & Galaxy",
     "text": "9 maps to entertain you this autumn.",
     "date": "2026-09-28",
@@ -38,13 +46,5 @@
     "tag": "News",
     "url": "https://www.minecraft.net/article/new-on-java-realms--sabines-takeover?OCID=Launcher",
     "image": "https://launchercontent.mojang.com/v2/images/sabinestakeover772x350.jpg"
-  },
-  {
-    "title": "New on Java Realms: Catch Me Outside",
-    "text": "Nine maps to bring in the spring season! ",
-    "date": "2026-04-24",
-    "tag": "News",
-    "url": "https://www.minecraft.net/article/new-on-java-realms--catch-me-outside?OCID=Launcher",
-    "image": "https://launchercontent.mojang.com/v2/images/touchgrass772x350.jpg"
   }
 ]
